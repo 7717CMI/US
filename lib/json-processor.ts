@@ -1209,7 +1209,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Physical Access Control Market',
+      market_name: 'Income Share Agreement Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,
