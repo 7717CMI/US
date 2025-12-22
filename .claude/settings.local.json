@@ -17,7 +17,9 @@
       "Bash(dir /s /b \"c:\\Users\\vrashal\\Desktop\\Bathroom\")",
       "Bash(powershell -Command:*)",
       "Bash(npm view:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(copy \"c:\\\\Users\\\\vrashal\\\\Desktop\\\\US\\\\image.png\" \"c:\\\\Users\\\\vrashal\\\\Desktop\\\\US\\\\public\\\\logo.png\" /Y)"
     ],
     "deny": [],
     "ask": []

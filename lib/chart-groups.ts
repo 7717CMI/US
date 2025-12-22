@@ -23,7 +23,7 @@ export const CHART_GROUPS: ChartGroup[] = [
   },
   {
     id: 'coherent-opportunity',
-    label: 'Coherent Opportunity Matrix',
+    label: 'WMR Opportunity Matrix',
     description: 'Opportunity identification and analysis',
     charts: ['bubble'],
     icon: '🎯'
